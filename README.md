@@ -3,6 +3,7 @@
 ## Installation
 
 <a href="javascript:addProvider('application/google_translate_any_to_fa.xml');void(0)">Install Any to Fa</a>
+:q
 
 ## Vimperator Usage
 
