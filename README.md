@@ -24,3 +24,13 @@ you can use the following commands:
 :open fatoes میکده
 ~~~
 
+Or rename the search engines using `:dialog searchengines` and get shortcuts:
+
+~~~
+:open fa Amor
+:open de عشق
+:open fr دردانه
+:open en غواص
+:open ar دریا
+:open es میکده
+~~~
