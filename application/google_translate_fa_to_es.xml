@@ -1,0 +1,7 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>Google Translate ANY to FA</ShortName>
+	<Description>Translate ANY language to Persian (Farsi) with Google Translate</Description>
+	<InputEncoding>UTF-8</InputEncoding>
+	<Url type="text/html" method="GET" template="http://translate.google.com/translate_t?#auto|fa|{searchTerms}"/>
+	<SearchForm>http://translate.google.com/translate_t#auto|fa</SearchForm>
+</OpenSearchDescription>
