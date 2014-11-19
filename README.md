@@ -24,7 +24,8 @@ you can use the following commands:
 :open fatoes میکده
 ~~~
 
-Or rename the search engines using `:dialog searchengines` and get shortcuts:
+Or shorten the search engine keywords using `:dialog searchengines` and get
+shortcuts:
 
 ~~~
 :open fa Amor
