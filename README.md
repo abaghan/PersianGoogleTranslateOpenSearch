@@ -12,7 +12,7 @@
 
 ## Vimperator Usage
 
-If you use the fabulous [Vimperator](http://www.vimperator.org/vimperator) 
+If you have the fabulous [Vimperator](http://www.vimperator.org/vimperator) 
 you can use the following commands:
 
 ~~~
@@ -24,8 +24,3 @@ you can use the following commands:
 :open fatoes میکده
 ~~~
 
-## Promote
-
-~~~
-<link rel="search" type="application/opensearchdescription+xml" title="anytofa" href="application/google_translate_any_to_fa.xml">
-~~~
