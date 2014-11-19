@@ -4,16 +4,11 @@
 ## Installation for Firefox
 
   * [Any language to Persian (Farsi, پارسی, فارسی)](https://addons.mozilla.org/en-US/firefox/addon/tofa/)
-  * [Persian to Arabic (عربی, العربية](https://addons.mozilla.org/en-US/firefox/addon/fatoar/)
+  * [Persian to Arabic (عربی, العربية)](https://addons.mozilla.org/en-US/firefox/addon/fatoar/)
   * [Persian to English](https://addons.mozilla.org/en-US/firefox/addon/fatoen/)
   * [Persian to French (français)](https://addons.mozilla.org/en-US/firefox/addon/fatofr/)
   * [Persian to German (Deutsch)](https://addons.mozilla.org/en-US/firefox/addon/fatode/)
   * [Persian to Spanish (español)](https://addons.mozilla.org/en-US/firefox/addon/fatoes/)
-
-
-
-
-
 
 ## Vimperator Usage
 
