@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="fatofr.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313708"
+     inkscape:cx="32.639282"
+     inkscape:cy="19.447079"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1024"
+     inkscape:window-height="1250"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs2987">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3999"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondMend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DiamondMend"
+       style="overflow:visible">
+      <path
+         id="path4096"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(-6.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3996"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3990"
+       is_visible="true" />
+  </defs>
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     id="layer1">
+    <rect
+       y="21.375"
+       x="21.25"
+       height="23.25"
+       width="23.25"
+       id="rect2995"
+       style="fill:#4d0042;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       y="4.75"
+       x="4.125"
+       height="23.25"
+       width="23.25"
+       id="rect2995-7"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#4d0042;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3881"
+       y="21.875"
+       x="9.75"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d0042;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:B Nazanin;-inkscape-font-specification:B Nazanin;fill:#4d0042;fill-opacity:1"
+         y="21.875"
+         x="9.75"
+         id="tspan3883"
+         sodipodi:role="line">فا</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3885"
+       y="39.341148"
+       x="24.00349"
+       style="font-size:17.43941498px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;fill-opacity:1;font-family:tahoma;-inkscape-font-specification:tahoma"
+         y="39.341148"
+         x="24.00349"
+         id="tspan3887"
+         sodipodi:role="line">de</tspan></text>
+    <rect
+       y="34.1875"
+       x="12.9375"
+       height="3.125"
+       width="0"
+       id="rect3889-5"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#4d0042;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#4d0042;stroke-width:3.82448006;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.74509804;stroke-dasharray:none"
+       id="rect5178"
+       width="0.15666832"
+       height="4.7759137"
+       x="10.972868"
+       y="32.359768" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#4d0042;stroke-width:3.82448006;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5178-7"
+       width="0.16068332"
+       height="4.6565781"
+       x="38.966084"
+       y="-17.690279"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#4d0042;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path5223"
+       sodipodi:sides="4"
+       sodipodi:cx="11.131138"
+       sodipodi:cy="23.912947"
+       sodipodi:r1="2.7413859"
+       sodipodi:r2="1.9384526"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 13.06959,25.851399 -3.8769047,0 0,-3.876905 3.8769047,0 z"
+       transform="matrix(1,0,0.94135745,1,-20.868332,15.17606)" />
+  </g>
+</svg>

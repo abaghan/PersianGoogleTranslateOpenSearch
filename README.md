@@ -1,14 +1,32 @@
 # Persian Google Translate Search Engine
 
-## Installation
 
-<a href="javascript:addProvider('application/google_translate_any_to_fa.xml');void(0)">Install Any to Fa</a>
-:q
+## Installation for Firefox
+
+  * [Any language to Persian (Farsi, پارسی, فارسی)](https://addons.mozilla.org/en-US/firefox/addon/tofa/)
+  * [Persian to Arabic (عربی, العربية](https://addons.mozilla.org/en-US/firefox/addon/fatoar/)
+  * [Persian to English](https://addons.mozilla.org/en-US/firefox/addon/fatoen/)
+  * [Persian to French (français)](https://addons.mozilla.org/en-US/firefox/addon/fatofr/)
+  * [Persian to German (Deutsch)](https://addons.mozilla.org/en-US/firefox/addon/fatode/)
+  * [Persian to Spanish (español)](https://addons.mozilla.org/en-US/firefox/addon/fatoes/)
+
+
+
+
+
 
 ## Vimperator Usage
 
+If you use the fabulous [Vimperator](http://www.vimperator.org/vimperator) 
+you can use the following commands:
+
 ~~~
-:open tofa amor
+:open tofa Amor
+:open fatode عشق
+:open fatofr دردانه
+:open fatoen غواص
+:open fatoar دریا
+:open fatoes میکده
 ~~~
 
 ## Promote
